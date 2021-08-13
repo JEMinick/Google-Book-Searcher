@@ -1,0 +1,20 @@
+[
+  {
+    "username": "John",
+    "email": "john@idk.com",
+    "password": "password1",
+	  "savedBooks": []
+  },
+  {
+    "username": "Jane",
+    "email": "jane@idk.com",
+    "password": "password2",
+	  "savedBooks": []
+  },
+  {
+    "username": "JoeCool",
+    "email": "joe@idk.com",
+    "password": "password3",
+	  "savedBooks": []
+  }
+]

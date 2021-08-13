@@ -1,0 +1,18 @@
+[
+  {
+    "bookId": "1",
+    "title": "Book1",
+    "description": "Description of Book1",
+    "image": "",
+    "link": "",
+    "authors": []
+  },
+  {
+    "bookId": "2",
+    "title": "Book2",
+    "description": "Description of Book2",
+    "image": "",
+    "link": "",
+    "authors": []
+  }
+]
