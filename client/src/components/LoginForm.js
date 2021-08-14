@@ -12,7 +12,6 @@ const LoginForm = () => {
   const [validated] = useState(false);
   const [showAlert, setShowAlert] = useState(false);
 
-  //code brought in after
   const[loginUser, {error}] = useMutation(LOGIN_USER);
 
   const handleInputChange = (event) => {
@@ -79,7 +78,6 @@ const LoginForm = () => {
           Submit
         </Button>
       </Form>
-      {error && <div>Login failed</div>}
     </>
   );
 };
