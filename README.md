@@ -40,6 +40,12 @@ To run this application:
 ```
 npm run develop
 ```
+## On-Line Links:
+[Live app on Heroku.com](https://eds-book-searcher.herokuapp.com/)<br>
+[Google-Book-Searcher Repository](https://github.com/JEMinick/Google-Book-Searcher/)
+
+## Sample Screen Shot:
+![Google-Book-Searcher screen shot:](./assets/GoogleBookSearch.png?raw=true)
 
 ## Contributing
 <a name="contributing"></a>
