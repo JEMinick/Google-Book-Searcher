@@ -12,10 +12,7 @@
   "keywords": [],
   "author": "James E. Minick",
   "license": "MIT",
-  "dependencies": {
-    "if-env": "^1.0.4"
-  },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.3.0"
   }
 }
